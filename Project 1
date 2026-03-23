@@ -1,0 +1,4 @@
+Project 1, Video Game Data Tracker
+The goal of this project was to create a program that would reference the player’s current progress in a video game and record that data for statistical analysis. In this instance, 
+I chose Geometry Dash and wanted to record whenever the player died so the user could reference which sections of a level were hard for them. Originally using image recognition for data, 
+I learned how to use OpenCV, basic image filtering, data and variable scraping, and Cheat Engine. Using a development method following the pattern of data scraping, analysis, and recording could result in a large number of projects created for others to use.
